@@ -1,6 +1,6 @@
 # Scheduled Web Comic Downloader
 
-Checks websites of web comics, and downloads image to desktop if website was updated since last visit.
+Checks websites of web comics, and downloads image if website was updated since last visit.
 
 Inspired by Al Sweigart's Automate the Boring Stuff with Python: Chapter 15.
 
